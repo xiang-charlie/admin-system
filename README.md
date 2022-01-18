@@ -12,8 +12,8 @@ There are a few assumptions that I am working under:
 
 3. `Admin` users can: 
 
-    a. Create a new course
-    b. Delete a course
-    c. Edit a course
-    d. Display information for a given course by `course ID`
+    a. Create a new course <br>
+    b. Delete a course <br>
+    c. Edit a course <br>
+    d. Display information for a given course by `course ID` <br>
     
